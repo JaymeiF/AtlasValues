@@ -1,0 +1,68 @@
+{
+  "format": "1.13",
+  "version": "1.0",
+  "serverMultiplierDictionary": {
+    "official": {
+      "statMultipliers": [
+        [
+          0.14,
+          0.44,
+          0.3,
+          1
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          1,
+          1,
+          1.5,
+          1
+        ],
+        [
+          0.14,
+          0.44,
+          0.255,
+          1
+        ],
+        null,
+        null,
+        null
+      ]
+    },
+    "singleplayer": {
+      "statMultipliers": [
+        [
+          3.57142857,
+          2.27272727,
+          2.125,
+          1
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          3.57142857,
+          2.27272727,
+          2.35294118,
+          1
+        ],
+        null,
+        null,
+        null
+      ],
+      "TamingSpeedMultiplier": 1,
+      "MatingIntervalMultiplier": 1,
+      "EggHatchSpeedMultiplier": 1,
+      "BabyMatureSpeedMultiplier": 1,
+      "BabyCuddleIntervalMultiplier": 1
+    },
+  }
+}
