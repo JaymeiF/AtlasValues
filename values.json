@@ -586,10 +586,7 @@
 						"Dino Dark Orange"
 					]
 				},
-				{
-					"name": "Unused",
-					"colors": []
-				},
+				null,
 				{
 					"name": "Horns",
 					"colors": [
@@ -609,14 +606,8 @@
 						"Dark Grey"
 					]
 				},
-				{
-					"name": "Unused",
-					"colors": []
-				},
-				{
-					"name": "Unused",
-					"colors": []
-				},
+				null,
+				null,
 				{
 					"name": "Spots",
 					"colors": [
@@ -673,6 +664,83 @@
             ],
 			"statImprintMult": [ 0.2, 0, 0.2, 0, 0.2, 0.2, 0, 0.2, 0.2, 0.2, 0, 0 ],
             "immobilizedBy": [],
+			"colors": [
+				{
+					"name": "Body",
+					"colors": [
+						"Red",
+						"Light Red",
+						"Light Green",
+						"Light Yellow",
+						"WyvernPurple1",
+						"DragonBase1",
+						"DragonGreen3",
+						"Dino Medium Green",
+						"Green",
+						"Dino Medium Blue",
+						"Dino Dark Purple",
+						"Dino Light Blue",
+						"NearWhite",
+						"NearBlack"
+					]
+				},
+				{
+					"name": "Eyes",
+					"colors": [
+						"Red",
+						"Light Red",
+						"Light Green",
+						"Light Yellow",
+						"Blue",
+						"Magenta",
+						"Cyan",
+						"Yellow",
+						"Green",
+						"Dino Medium Blue",
+						"Red",
+						"Dino Light Blue",
+						"NearWhite",
+						"NearBlack"
+					]
+				},
+				null,
+				null,
+				{
+					"name": "Edges",
+					"colors": [
+						"Dino Light Yellow",
+						"Light Blue",
+						"Dino Medium Green",
+						"Cyan",
+						"Magenta",
+						"Light Green",
+						"Light Red",
+						"Dino Albino",
+						"NearBlack",
+						"NearWhite",
+						"Dino Light Orange",
+						"Dino Light Blue"
+					]
+				},
+				{
+					"name": "Legs",
+					"colors": [
+						"Dark Red",
+						"Dino Dark Orange",
+						"Light Green",
+						"Dino Light Yellow",
+						"WyvernPurple1",
+						"DragonBase1",
+						"DragonGreen3",
+						"Dino Medium Green",
+						"Dino Medium Blue",
+						"Dino Dark Purple",
+						"Dino Light Blue",
+						"NearWhite",
+						"NearBlack"
+					]
+				}
+			],
             "taming": {
                 "nonViolent": false,
                 "violent": true,
@@ -708,12 +776,61 @@
             ],
 			"statImprintMult": [ 0.2, 0, 0.2, 0, 0.2, 0.2, 0, 0.2, 0.2, 0.2, 0, 0 ],
             "immobilizedBy": [],
+			"colors": [
+				{
+					"name": "Main Body Color",
+					"colors": [
+						"Dino Dark Yellow",
+						"DragonGreen0",
+						"NearBlack",
+						"Dino Albino",
+						"Dino Medium Green",
+						"Creature Ochre",
+						"DragonGreen2",
+						"Dino Dark Brown"
+					]
+				},
+				null,
+				null,
+				null,
+				{
+					"name": "Darker Scales",
+					"colors": [
+						"Dino Dark Yellow",
+						"DragonGreen3",
+						"Dino Dark Brown",
+						"DarkWolfFur",
+						"DragonGreen0",
+						"NearBlack",
+						"Creature Midnight",
+						"Creature Ochre",
+						"DragonGreen2",
+						"DragonGreen0",
+						"Dino Dark Brown"
+					]
+				},
+				{
+					"name": "Belly",
+					"colors": [
+						"DragonGreen0",
+						"DragonGreen1",
+						"DragonGreen2",
+						"Dino Medium Green",
+						"Light Grey",
+						"Dino Albino",
+						"NearBlack",
+						"Dino Light Yellow",
+						"Dino Light Blue",
+						"Creature Light Smoke"
+					]
+				}
+			],
             "taming": {
                 "nonViolent": false,
                 "violent": true,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 8500,
-                "affinityIncreasePL": 150,
+                "affinityNeeded0": 2500,
+                "affinityIncreasePL": 75,
                 "foodConsumptionBase": 0.001578,
                 "foodConsumptionMult": 1
             },
@@ -743,12 +860,98 @@
             ],
 			"statImprintMult": [ 0.2, 0, 0.2, 0, 0.2, 0.2, 0, 0.2, 0.2, 0.2, 0, 0 ],
             "immobilizedBy": [],
+			"colors": [
+				{
+					"name": "Main Body",
+					"colors": [
+						"Light Grey",
+						"Black",
+						"Dino Dark Red",
+						"WyvernPurple0",
+						"Dino Dark Purple",
+						"Dino Albino",
+						"WyvernBlue0",
+						"WyvernBlue1",
+						"Creature Dark Smoke",
+						"NearBlack",
+						"Creature Midnight"
+					]
+				},
+				null,
+				{
+					"name": "Eye",
+					"colors": [
+						"Creature Orange",
+						"Creature Midnight",
+						"Creature Light Smoke",
+						"Dino Deep Blue",
+						"Dino Medium Blue",
+						"WyvernPurple1",
+						"DragonGreen3",
+						"DragonFire",
+						"DragonBase1",
+						"Dino Light Brown",
+						"Dino Light Blue"
+					]
+				},
+				null,
+				{
+					"name": "Head Feathers",
+					"colors": [
+						"Dino Light Blue",
+						"Dino Dark Blue",
+						"Dino Light Purple",
+						"Dino Dark Purple",
+						"BigFoot0",
+						"BigFoot5",
+						"DragonBase0",
+						"DragonFire",
+						"DragonGreen3",
+						"WyvernPurple0",
+						"WyvernBlue0",
+						"WyvernBlue1",
+						"Dino Medium Blue",
+						"Dino Deep Blue",
+						"NearWhite",
+						"NearBlack",
+						"Creature Light Smoke",
+						"Creature Orange",
+						"Creature Midnight",
+						"Creature Pink"
+					]
+				},
+				{
+					"name": "Wing Feathers",
+					"colors": [
+						"Dino Light Blue",
+						"Dino Dark Blue",
+						"Dino Light Purple",
+						"Dino Dark Purple",
+						"BigFoot0",
+						"BigFoot5",
+						"DragonBase0",
+						"DragonFire",
+						"DragonGreen3",
+						"WyvernPurple0",
+						"WyvernBlue0",
+						"WyvernBlue1",
+						"Dino Medium Blue",
+						"Dino Deep Blue",
+						"NearWhite",
+						"NearBlack",
+						"Creature Light Smoke",
+						"Creature Orange",
+						"Creature Midnight",
+						"Creature Pink"
+					]
+				}
+			],
             "taming": {
                 "nonViolent": true,
                 "violent": false,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 8500,
-                "affinityIncreasePL": 150,
+                "affinityNeeded0": 525,
+                "affinityIncreasePL": 26.25,
                 "foodConsumptionBase": 0.001488,
                 "foodConsumptionMult": 1
             },
@@ -778,12 +981,82 @@
             ],
 			"statImprintMult": [ 0.2, 0, 0.2, 0, 0.2, 0.2, 0, 0.2, 0.2, 0.2, 0, 0 ],
             "immobilizedBy": [],
+			"colors": [
+				{
+					"name": "Medium Skin",
+					"colors": [
+						"Creature Dark Smoke",
+						"Creature Light Smoke",
+						"WyvernBlue1",
+						"WyvernBlue0",
+						"Dino Darker Grey",
+						"Dino Albino",
+						"NearBlack",
+						"Dino Dark Blue",
+						"Dino Light Purple",
+						"Dino Light Blue",
+						"Dino Dark Purple",
+						"Dino Light Orange",
+						"DragonBase1",
+						"DarkWolfFur",
+						"DragonBase0",
+						"BigFoot0",
+						"DragonGreen3",
+						"WyvernPurple0",
+						"Creature Pink"
+					]
+				},
+				null,
+				null,
+				null,
+				{
+					"name": "Light Skin",
+					"colors": [
+						"Creature Light Smoke",
+						"Dino Medium Blue",
+						"Dino Light Blue",
+						"Creature Dark Smoke",
+						"Dino Albino",
+						"Dino Dark Blue",
+						"Dino Light Purple",
+						"Dino Dark Purple",
+						"Dino Darker Grey",
+						"NearBlack",
+						"Dino Light Orange",
+						"Dino Light Brown",
+						"BigFoot0",
+						"BigFoot5",
+						"WolfFur",
+						"Creature Pink"
+					]
+				},
+				{
+					"name": "Dark Skin",
+					"colors": [
+						"Creature Dark Smoke",
+						"WyvernBlue1",
+						"WyvernBlue0",
+						"Creature Light Smoke",
+						"Dino Light Blue",
+						"Dino Darker Grey",
+						"NearBlack",
+						"Creature Midnight",
+						"Dino Light Purple",
+						"Dino Dark Purple",
+						"WyvernPurple0",
+						"DragonGreen3",
+						"DragonBase0",
+						"DarkWolfFur",
+						"BigFoot0"
+					]
+				}
+			],
             "taming": {
                 "nonViolent": true,
                 "violent": false,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 8500,
-                "affinityIncreasePL": 150,
+                "affinityNeeded0": 1500,
+                "affinityIncreasePL": 75,
                 "foodConsumptionBase": 0.001929,
                 "foodConsumptionMult": 1
             },
@@ -813,12 +1086,78 @@
             ],
 			"statImprintMult": [ 0.2, 0, 0.2, 0, 0.2, 0.2, 0, 0.2, 0.2, 0.2, 0, 0 ],
             "immobilizedBy": [],
+			"colors": [
+				{
+					"name": "Main Body",
+					"colors": [
+						"BigFoot0",
+						"NearBlack",
+						"Dino Medium Brown",
+						"Dino Darker Grey",
+						"Dino Albino",
+						"DarkWolfFur",
+						"Light Grey",
+						"Dino Dark Brown",
+						"Dino Light Brown",
+						"BigFoot4",
+						"BigFoot5"
+					]
+				},
+				null,
+				null,
+				{
+					"name": "Tusks",
+					"colors": [
+						"DarkWolfFur",
+						"WolfFur",
+						"Light Brown",
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"BigFoot4"
+					]
+				},
+				{
+					"name": "Body Pattern",
+					"colors": [
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"DarkWolfFur",
+						"Dino Dark Orange",
+						"BigFoot0",
+						"DragonBase0",
+						"Creature Light Smoke",
+						"Creature Dark Smoke",
+						"WyvernPurple0",
+						"Dino Light Yellow",
+						"Dino Light Red"
+					]
+				},
+				{
+					"name": "Fleshy Skin",
+					"colors": [
+						"Dino Medium Brown",
+						"Dino Light Brown",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"WolfFur",
+						"NearBlack",
+						"NearWhite",
+						"Dino Light Orange",
+						"Dino Light Blue",
+						"DragonBase0",
+						"Dino Dark Red"
+					]
+				}
+			],
             "taming": {
                 "nonViolent": false,
                 "violent": true,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 8500,
-                "affinityIncreasePL": 150,
+                "affinityNeeded0": 2500,
+                "affinityIncreasePL": 93.75,
                 "foodConsumptionBase": 0.004823,
                 "foodConsumptionMult": 1
             },
@@ -848,12 +1187,88 @@
             ],
 			"statImprintMult": [ 0.2, 0, 0.2, 0, 0.2, 0.2, 0, 0.2, 0.2, 0.2, 0, 0 ],
             "immobilizedBy": [],
+			"colors": [
+				{
+					"name": "Fur Secondary",
+					"colors": [
+						"Dino Medium Brown",
+						"Dino Light Brown",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"WolfFur",
+						"Light Grey",
+						"Dino Albino",
+						"NearBlack",
+						"NearWhite",
+						"Dino Light Orange",
+						"Dino Light Blue"
+					]
+				},
+				{
+					"name": "Stripes",
+					"colors": [
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Light Grey",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"Black",
+						"NearWhite",
+						"WolfFur",
+						"DarkWolfFur",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"NearBlack",
+						"Dino Dark Orange"
+					]
+				},
+				null,
+				null,
+				{
+					"name": "Fur Primary",
+					"colors": [
+						"Dino Dark Orange",
+						"BigFoot0",
+						"Dark Grey",
+						"DarkWolfFur",
+						"Dino Medium Brown",
+						"DragonBase1",
+						"DragonBase0",
+						"NearWhite",
+						"NearBlack",
+						"BigFoot5",
+						"Dino Dark Blue",
+						"DragonFire",
+						"Dino Medium Blue"
+					]
+				},
+				{
+					"name": "Horn Tips",
+					"colors": [
+						"Dino Dark Orange",
+						"Dino Dark Yellow",
+						"DragonGreen3",
+						"Dino Dark Brown",
+						"Dino Medium Brown",
+						"DarkWolfFur",
+						"DragonBase0",
+						"DragonBase1",
+						"DragonGreen0",
+						"WyvernBlue1",
+						"NearBlack",
+						"Creature Midnight"
+					]
+				}
+			],
             "taming": {
                 "nonViolent": false,
                 "violent": true,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 8500,
-                "affinityIncreasePL": 150,
+                "affinityNeeded0": 1750,
+                "affinityIncreasePL": 65,
                 "foodConsumptionBase": 0.002894,
                 "foodConsumptionMult": 1
             },
@@ -883,12 +1298,70 @@
             ],
 			"statImprintMult": [ 0.2, 0, 0.2, 0, 0.2, 0.2, 0, 0.2, 0.2, 0.2, 0, 0 ],
             "immobilizedBy": [],
+			"colors": [
+				{
+					"name": "Body Main",
+					"colors": [
+						"Light Brown",
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Light Grey",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"Black",
+						"DarkWolfFur",
+						"NearBlack",
+						"DragonBase0",
+						"NearWhite"
+					]
+				},
+				null,
+				null,
+				null,
+				{
+					"name": "Stripes",
+					"colors": [
+						"Dino Light Orange",
+						"Dino Dark Orange",
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Light Grey",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"Black",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"NearWhite"
+					]
+				},
+				{
+					"name": "Underbelly and Highlights",
+					"colors": [
+						"Dino Light Orange",
+						"Dino Dark Orange",
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Light Grey",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"Black",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"NearWhite"
+					]
+				}
+			],
             "taming": {
                 "nonViolent": true,
                 "violent": false,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 8500,
-                "affinityIncreasePL": 150,
+                "affinityNeeded0": 1200,
+                "affinityIncreasePL": 60,
                 "foodConsumptionBase": 0.001929,
                 "foodConsumptionMult": 1
             },
@@ -918,11 +1391,68 @@
             ],
 			"statImprintMult": [ 0.2, 0, 0.2, 0, 0.2, 0.2, 0, 0.2, 0.2, 0.2, 0, 0 ],
             "immobilizedBy": [],
+			"colors": [
+				{
+					"name": "Main Body",
+					"colors": [
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Light Grey",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"Black",
+						"NearWhite",
+						"WolfFur",
+						"DarkWolfFur",
+						"BigFoot0",
+						"BigFoot4",
+						"NearBlack",
+						"Creature Ochre"
+					]
+				},
+				null,
+				null,
+				null,
+				{
+					"name": "Belly",
+					"colors": [
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Light Grey",
+						"Black",
+						"NearWhite",
+						"WolfFur",
+						"BigFoot0",
+						"DarkWolfFur",
+						"BigFoot4"
+					]
+				},
+				{
+					"name": "Back",
+					"colors": [
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Light Grey",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"Black",
+						"NearWhite",
+						"WolfFur",
+						"DarkWolfFur",
+						"BigFoot0",
+						"BigFoot4",
+						"NearBlack",
+						"Creature Ochre"
+					]
+				}
+			],
             "taming": {
                 "nonViolent": false,
                 "violent": true,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 8500,
+                "affinityNeeded0": 3000,
                 "affinityIncreasePL": 150,
                 "foodConsumptionBase": 0.001389,
                 "foodConsumptionMult": 1
@@ -953,12 +1483,87 @@
             ],
 			"statImprintMult": [ 0.2, 0, 0.2, 0, 0.2, 0.2, 0, 0.2, 0.2, 0.2, 0, 0 ],
             "immobilizedBy": [],
+			"colors": [
+				{
+					"name": "Shoulders and Legs",
+					"colors": [
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Light Grey",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"Black",
+						"NearWhite",
+						"WolfFur",
+						"DarkWolfFur",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"NearBlack",
+						"Dino Dark Orange"
+					]
+				},
+				null,
+				{
+					"name": "Skin",
+					"colors": [
+						"Dino Light Orange",
+						"Dino Medium Brown",
+						"BigFoot0",
+						"BigFoot5",
+						"WolfFur",
+						"DarkWolfFur",
+						"Creature Pink",
+						"Dino Darker Grey"
+					]
+				},
+				null,
+				{
+					"name": "Stripes",
+					"colors": [
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Light Grey",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"Black",
+						"NearWhite",
+						"WolfFur",
+						"DarkWolfFur",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"NearBlack"
+					]
+				},
+				{
+					"name": "Main Body",
+					"colors": [
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Light Grey",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"Black",
+						"NearWhite",
+						"WolfFur",
+						"DarkWolfFur",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"NearBlack"
+					]
+				}
+			],
             "taming": {
                 "nonViolent": true,
                 "violent": false,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 8500,
-                "affinityIncreasePL": 150,
+                "affinityNeeded0": 550,
+                "affinityIncreasePL": 27.5,
                 "foodConsumptionBase": 0.001157,
                 "foodConsumptionMult": 1
             },
@@ -988,6 +1593,99 @@
             ],
 			"statImprintMult": [ 0.2, 0, 0.2, 0, 0.2, 0.2, 0, 0.2, 0.2, 0.2, 0, 0 ],
             "immobilizedBy": [],
+			"colors": [
+				{
+					"name": "Main",
+					"colors": [
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Light Grey",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"Black",
+						"NearWhite",
+						"WolfFur",
+						"DarkWolfFur",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"NearBlack"
+					]
+				},
+				null,
+				{
+					"name": "Horns Main",
+					"colors": [
+						"Dino Medium Brown",
+						"Dino Light Brown",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"WolfFur",
+						"Light Grey",
+						"Dino Albino",
+						"NearBlack",
+						"NearWhite",
+						"Dino Light Orange",
+						"Dino Light Blue",
+						"Dino Dark Brown",
+						"Dark Grey"
+					]
+				},
+				{
+					"name": "Spots",
+					"colors": [
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Light Grey",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"Black",
+						"NearWhite",
+						"WolfFur",
+						"DarkWolfFur",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"NearBlack",
+						"Dino Dark Orange"
+					]
+				},
+				{
+					"name": "Horn Tips",
+					"colors": [
+						"Dino Light Orange",
+						"Dino Medium Brown",
+						"BigFoot0",
+						"BigFoot5",
+						"WolfFur",
+						"DarkWolfFur",
+						"Creature Pink",
+						"Dino Darker Grey"
+					]
+				},
+				{
+					"name": "Back",
+					"colors": [
+						"Dino Light Brown",
+						"Dino Medium Brown",
+						"Dino Dark Brown",
+						"Light Grey",
+						"Dark Grey",
+						"Dino Darker Grey",
+						"Black",
+						"NearWhite",
+						"WolfFur",
+						"DarkWolfFur",
+						"BigFoot0",
+						"BigFoot4",
+						"BigFoot5",
+						"NearBlack"
+					]
+				}
+			],
 			"breeding": {
 				"gestationTime": 15037.594,
 				"incubationTime": 0,
@@ -999,8 +1697,8 @@
                 "nonViolent": true,
                 "violent": false,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 8500,
-                "affinityIncreasePL": 150,
+                "affinityNeeded0": 1700,
+                "affinityIncreasePL": 85,
                 "foodConsumptionBase": 0.001736,
                 "foodConsumptionMult": 1
             },
@@ -1150,8 +1848,8 @@
                 "nonViolent": false,
                 "violent": true,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 3250,
-                "affinityIncreasePL": 162.5,
+                "affinityNeeded0": 1650,
+                "affinityIncreasePL": 50,
                 "foodConsumptionBase": 0.001286,
                 "foodConsumptionMult": 1
             },
@@ -1318,8 +2016,8 @@
                 "nonViolent": false,
                 "violent": true,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 3250,
-                "affinityIncreasePL": 162.5,
+                "affinityNeeded0": 500,
+                "affinityIncreasePL": 25,
                 "foodConsumptionBase": 0.001488,
                 "foodConsumptionMult": 1
             },
@@ -1453,8 +2151,8 @@
                 "nonViolent": true,
                 "violent": false,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 3250,
-                "affinityIncreasePL": 162.5,
+                "affinityNeeded0": 1150,
+                "affinityIncreasePL": 57.50,
                 "foodConsumptionBase": 0.001488,
                 "foodConsumptionMult": 1
             },
@@ -1556,8 +2254,8 @@
                 "nonViolent": true,
                 "violent": false,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 3250,
-                "affinityIncreasePL": 162.5,
+                "affinityNeeded0": 1450,
+                "affinityIncreasePL": 36.25,
                 "foodConsumptionBase": 0.004340,
                 "foodConsumptionMult": 1
             },
@@ -1634,8 +2332,8 @@
                 "nonViolent": true,
                 "violent": false,
                 "tamingIneffectiveness": 1,
-                "affinityNeeded0": 3250,
-                "affinityIncreasePL": 162.5,
+                "affinityNeeded0": 475,
+                "affinityIncreasePL": 23.75,
                 "foodConsumptionBase": 0.001157,
                 "foodConsumptionMult": 1
             },
